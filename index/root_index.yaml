@@ -440,4 +440,9 @@ schools:
   - id: "GDUST"
     name: "广东科技学院"
     initial: "G"
-    resource_folder: "GDUST"      
+    resource_folder: "GDUST"
+  
+  - id: "UPC"
+    name: "中国石油大学(华东)"
+    initial: "Z"
+    resource_folder: "UPC"   
