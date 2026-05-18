@@ -522,3 +522,7 @@ schools:
     initial: "X"
     resource_folder: "XYAFU"
 
+  - id: "ZJUT"
+    name: "浙江工业大学"
+    initial: "Z"
+    resource_folder: "ZJUT"
