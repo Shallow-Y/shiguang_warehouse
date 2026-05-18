@@ -496,3 +496,8 @@ schools:
     name: "西安工业大学"
     initial: "X"
     resource_folder: "XATU"
+
+  - id: "NJTECH"
+    name: "南京工业大学"
+    initial: "N"
+    resource_folder: "NJTECH"
