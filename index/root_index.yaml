@@ -561,3 +561,8 @@ schools:
     name: "内蒙古大学"
     initial: "N"
     resource_folder: "IMU"    
+
+  - id: "QQHRU"
+    name: "齐齐哈尔大学"
+    initial: "Q"
+    resource_folder: "QQHRU"  
