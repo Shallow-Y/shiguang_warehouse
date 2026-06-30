@@ -582,3 +582,8 @@ schools:
     name: "铜仁学院"
     initial: "T"
     resource_folder: "GZTRC"
+
+  - id: "GZU"
+    name: "贵州大学"
+    initial: "G"
+    resource_folder: "GZU"
