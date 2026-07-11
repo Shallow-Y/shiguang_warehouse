@@ -231,7 +231,7 @@ const TimeSlots = [
     { number: 7, startTime: "15:35", endTime: "16:20" },
     { number: 8, startTime: "16:25", endTime: "17:50" },
     { number: 9, startTime: "18:30", "endTime": "19:15" },
-    { number: 10, startTime: "19:00", "endTime": "20:05" },
+    { number: 10, startTime: "19:15", "endTime": "20:05" },
     { number: 11, startTime: "20:10", "endTime": "20:55" },
     { number: 12, startTime: "21:00", "endTime": "21:45" },
 ];
